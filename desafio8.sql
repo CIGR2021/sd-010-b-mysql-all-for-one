@@ -1,1 +1,1 @@
-SELECT 'A' AS 5 + 6, 'Trybe' AS 'de', 'eh' AS 2 + 8;
+SELECT 5 + 6 AS 'A', 'de' AS 'Trybe', 2 + 8 AS 'eh';
