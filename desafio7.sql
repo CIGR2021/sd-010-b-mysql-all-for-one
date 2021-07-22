@@ -1,3 +1,6 @@
-SELECT * FROM northwind.products 
-LIMIT 5
-OFFSET 40;
+SELECT * FROM northwind.products
+ORDER BY id DESC
+LIMIT 5;
+ 
+ 
+ 
