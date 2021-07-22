@@ -1,3 +1,2 @@
 SELECT *
-
- FROM northwind.products;
+  FROM northwind.products;
