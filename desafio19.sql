@@ -1,1 +1,1 @@
-SELECT count(*) FROM orders WHERE employee_id in (5, 6) and shipper_id = 2;
+SELECT count(*) AS 'orders_count' FROM orders WHERE employee_id in (5, 6) and shipper_id = 2;
