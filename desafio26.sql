@@ -1,2 +1,4 @@
+SET SQL_SAFE_UPDATES = 0;
+
 DELETE FROM northwind.order_details
-WHERE unity_price > '10.0000';
+WHERE unit_price > '10.0000';
