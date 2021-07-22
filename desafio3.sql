@@ -1,1 +1,1 @@
-select * from products
+select id from products
