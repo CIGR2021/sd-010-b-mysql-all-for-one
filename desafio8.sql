@@ -1,0 +1,1 @@
+SELECT 5 + 6 AS soma1, 'letycia de Campos' AS nome, 2 + 8 AS soma2;
