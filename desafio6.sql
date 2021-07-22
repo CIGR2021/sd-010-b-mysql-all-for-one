@@ -1,1 +1,1 @@
-select id, product_name from products;
+select id, product_name from products ORDER BY product_name ASC;
