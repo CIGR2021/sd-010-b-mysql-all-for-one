@@ -1,0 +1,1 @@
+select notes from northwind.purchase_orders where notes between 'Purchase generated based on Order #33' and 'Purchase generated based on Order #39';
