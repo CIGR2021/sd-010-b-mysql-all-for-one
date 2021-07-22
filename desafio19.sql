@@ -1,0 +1,6 @@
+SELECT 
+    COUNT(*) AS orders_count
+FROM
+    northwind.orders
+WHERE
+    (employee_id IN(5) OR employee_id IN(6)) AND shipper_id IN(2);
