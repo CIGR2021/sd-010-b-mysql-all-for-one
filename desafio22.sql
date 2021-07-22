@@ -1,3 +1,2 @@
-UPDATE northwind.order_details 
-  SET discout = 15;
+UPDATE northwind.order_details SET discout = 15;
   
