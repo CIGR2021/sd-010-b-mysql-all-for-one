@@ -1,0 +1,1 @@
+SELECT 5 + 6 AS a, 'de' AS trybe, 8 + 2 AS eh;
