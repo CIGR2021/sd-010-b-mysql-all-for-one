@@ -1,1 +1,2 @@
-update northwind.order_details set discount = 30 where unit_price < 10000;
+update northwind.order_details set discount = 30 where unit_price < 10;
+
