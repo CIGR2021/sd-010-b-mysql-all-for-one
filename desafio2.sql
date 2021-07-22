@@ -1,3 +1,4 @@
+use northwind;
 SELECT 
     *
 FROM
