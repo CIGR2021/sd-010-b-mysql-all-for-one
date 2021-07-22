@@ -3,7 +3,6 @@
 -- discount: 0, status_id: 2, date_allocated: NULL, purchase_order_id: NULL e inventory_id: 129 
 -- (o ìd deve ser incrementado automaticamente).
 
-SELECT * FROM order_details;
 INSERT INTO order_details(order_id, product_id, quantity, unit_price, discount, status_id, inventory_id)
 VALUES
 (69, 80, 15, 15, 0, 2, 129),
