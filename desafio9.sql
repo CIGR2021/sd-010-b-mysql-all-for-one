@@ -2,7 +2,7 @@ SELECT
     notes
 FROM
     northwind.purchase_orders
-   WHEN notes is not null;
+    WHEN notes is not null;
 SELECT 
     notes
 FROM
