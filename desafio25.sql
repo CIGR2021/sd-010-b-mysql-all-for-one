@@ -1,2 +1,2 @@
 DELETE FROM northwind.order_details
-WHERE order_details < '10.0000';
+WHERE unity_price < '10.0000';
