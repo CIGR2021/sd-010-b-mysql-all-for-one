@@ -1,6 +1,7 @@
 SELECT 
-    *
+    COUNT(*) AS 'orders_count'
 FROM
-    northwind.purchase_orders
+    northwind.orders
 WHERE
-    supplier_id = 3 AND status_id = 2;
+    employee_id IN (5 , 6)
+        AND shipper_id = 2;
