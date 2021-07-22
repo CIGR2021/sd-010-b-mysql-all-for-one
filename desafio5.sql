@@ -1,1 +1,1 @@
-SELECT product_name FROM northwind.products LIMIT 7 OFFSET 3;
+SELECT * FROM northwind.products LIMIT 13 OFFSET 3;
