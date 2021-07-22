@@ -1,0 +1,1 @@
+SELECT COUNT(product_name) as 'Total Produtos' FROM northwind.products;
