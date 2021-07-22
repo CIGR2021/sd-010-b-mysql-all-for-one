@@ -1,1 +1,1 @@
-SELECT 5 + 6 AS 'soma1', 'de' AS 'nome', 2 + 8 AS 'soma2';
+SELECT 5 + 6 AS "soma1", "de" AS "nome", 2 + 8 AS "soma2";
