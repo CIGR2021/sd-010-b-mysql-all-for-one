@@ -1,1 +1,1 @@
-SELECT notes FROM northwind.purchase_orders;
+SELECT notes FROM northwind.purchase_orders is not null;
