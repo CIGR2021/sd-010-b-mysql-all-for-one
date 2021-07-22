@@ -1,3 +1,1 @@
-USE northwind;
-SET SQL_SAFE_UPDATES = 0;
-DELETE FROM order_details;
+DELETE FROM northwind.order_details;

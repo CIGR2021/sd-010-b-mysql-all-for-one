@@ -1,4 +1,2 @@
-USE northwind;
-SET SQL_SAFE_UPDATES = 0;
-UPDATE order_details
+UPDATE northwind.order_details
 SET discount = 15;
