@@ -1,1 +1,1 @@
-select * from products order by id desc limit 3
+select * from products order by id desc limit 5
