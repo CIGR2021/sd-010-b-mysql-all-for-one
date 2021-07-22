@@ -1,4 +1,4 @@
-SELECT supplier_id FROM northwind.products;SELECT 
+SELECT 
     supplier_id
 FROM
     northwind.purchase_orders
