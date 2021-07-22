@@ -1,2 +1,2 @@
 SELECT * from products
-LIMIT 13 OFFSET 3;
+LIMIT 10 OFFSET 3;
