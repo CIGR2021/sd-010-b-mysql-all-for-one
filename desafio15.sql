@@ -1,6 +1,4 @@
 SELECT 
-    HOUR(submitted_date)
+    HOUR(submitted_date) AS submitted_hour
 FROM
-    northwind.purchase_orders
-AS
-    submitted_hour;
+    northwind.purchase_orders;
