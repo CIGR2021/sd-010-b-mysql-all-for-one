@@ -1,0 +1,1 @@
+SELECT submitted_date, purchase_orders FROM northwind.purchase_orders where submitted_date not like 'null' ;
