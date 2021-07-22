@@ -1,1 +1,1 @@
-SELECT submitted_date, purchase_orders FROM northwind.purchase_orders where submitted_date not like 'null' ;
+SELECT submitted_date FROM northwind.purchase_orders where submitted_date BETWEEN '2006-04-26' AND '2006-04-27';
