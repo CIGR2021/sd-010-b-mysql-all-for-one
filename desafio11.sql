@@ -1,7 +1,7 @@
 SELECT
   notes
 FROM
-northwind.purchase_orders
+  northwind.purchase_orders
 WHERE
-notes
+  notes
 LIKE '%3_%';
