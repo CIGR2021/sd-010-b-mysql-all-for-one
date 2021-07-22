@@ -1,6 +1,6 @@
 SELECT 
-    supplier_id
+    HOUR(submitted_date)
 FROM
     northwind.purchase_orders
-WHERE
-  	supplier_id BETWEEN 1 AND 3;
+AS
+	submitted_hour;
