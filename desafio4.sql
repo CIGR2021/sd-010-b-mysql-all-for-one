@@ -1,0 +1,1 @@
+SELECT count(product_name) AS Quantidade FROM northwind.products;
