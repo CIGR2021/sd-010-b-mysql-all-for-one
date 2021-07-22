@@ -1,1 +1,1 @@
-SELECT supplier_ids from northwind.products;
+SELECT id from northwind.products;
