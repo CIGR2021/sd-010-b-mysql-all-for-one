@@ -1,4 +1,4 @@
 SELECT
-  product_names
+  product_name
 FROM
   northwind.products;
