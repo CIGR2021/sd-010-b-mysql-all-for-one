@@ -1,3 +1,2 @@
 USE northwind;
-SELECT * FROM tables.products;
-
+SELECT * FROM products;
