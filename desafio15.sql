@@ -3,4 +3,4 @@ SELECT
 FROM
     northwind.purchase_orders
 AS
-	submitted_hour;
+    submitted_hour;
