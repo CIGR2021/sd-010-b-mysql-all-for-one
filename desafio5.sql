@@ -1,1 +1,1 @@
-SELECT notes FROM northwind.purchase_orders WHERE notes IS NOT NULL
+SELECT * FROM northwind.products limit 10 offset 3
