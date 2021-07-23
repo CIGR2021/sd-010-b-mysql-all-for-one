@@ -1,0 +1,1 @@
+SELECT notes FROM northwind.purchase_orders WHERE notes like 'pur%' ORDER BY id LIMIT 5;
