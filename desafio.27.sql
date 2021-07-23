@@ -1,1 +1,1 @@
-TRUNCATE northwind.order_details;
+DELETE FROM northwind.order_details WHERE id <> 0.9;
