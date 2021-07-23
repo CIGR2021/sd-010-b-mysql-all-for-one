@@ -1,1 +1,1 @@
-SELECT notes FROM northwind.purchase_orders WHERE notes between 30 and 39;
+SELECT notes FROM northwind.purchase_orders WHERE notes LIKE "%3%";
