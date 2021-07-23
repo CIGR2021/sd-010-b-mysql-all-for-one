@@ -1,1 +1,1 @@
-SELECT id FROM northwind.customers;
+SELECT iD FROM northwind.products;
