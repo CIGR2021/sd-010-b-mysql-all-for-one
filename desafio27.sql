@@ -1,1 +1,1 @@
-DELETE order_details FROM northwind;
+drop table order_details;
