@@ -1,4 +1,4 @@
 SELECT  id
-       ,product_name
+        ,product_name
 FROM northwind.products
 ORDER BY product_name ASC;
