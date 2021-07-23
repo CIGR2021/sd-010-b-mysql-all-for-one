@@ -85,8 +85,11 @@ SELECT * FROM northwind.orders;
 
 4. Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório. Este _Pull Request_ deverá conter os arquivos `desafio1.sql`, `desafio2.sql` e assim por diante até o `desafio27.sql`, que conterão seu código `SQL` de cada desafio, respectivamente.
 
+<<<<<<< HEAD
 5. **Não é necessário colocar** `USE northwind;` ou `SET SQL_SAFE_UPDATES = 0;` no início dos seus arquivos.
 
+=======
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
 ### ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
 
 Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
@@ -99,7 +102,11 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 
 - Projeto individual.
 
+<<<<<<< HEAD
 - Será `1` dias de projeto.
+=======
+- Será 1 dia de projeto.
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
 
 - Data de entrega para avaliação final do projeto: `29/07/2021 - 14:00h`.
 
@@ -108,9 +115,15 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 ## Antes de começar a desenvolver
 
 1. Clone o repositório
+<<<<<<< HEAD
   * `git clone https://github.com/tryber/sd-010-b-mysql-all-for-one.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-010-b-mysql-all-for-one`
+=======
+  * `git clone https://github.com/tryber/sd-010-a-mysql-all-for-one.git`.
+  * Entre na pasta do repositório que você acabou de clonar:
+    * `cd sd-010-a-mysql-all-for-one`
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
 
 2. Instale as dependências [**Caso existam**]
   * `npm install` [**exemplo**]
@@ -143,13 +156,21 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
   * Usando o exemplo anterior: `git push -u origin seunome-mysql-all-for-one`
 
 7. Crie um novo `Pull Request` _(PR)_
+<<<<<<< HEAD
   * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-010-b-mysql-all-for-one/pulls)
+=======
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-010-a-mysql-all-for-one/pulls)
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
+<<<<<<< HEAD
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-010-b-mysql-all-for-one/pulls) e confira que o seu _Pull Request_ está criado
+=======
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-010-a-mysql-all-for-one/pulls) e confira que o seu _Pull Request_ está criado
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
 
 ---
 
@@ -215,10 +236,13 @@ MYSQL_USER=root MYSQL_PASSWORD= HOSTNAME=localhost npm test
   ```
 ---
 
+<<<<<<< HEAD
 :warning: **Não é necessário colocar** `USE northwind;` ou `SET SQL_SAFE_UPDATES = 0;` no início dos seus arquivos :warning:
 
 ---
 
+=======
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
 # Requisitos do projeto
 
 Monte queries para encontrar as informações esperadas pelos desafios:
@@ -299,7 +323,11 @@ Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus co
 
   * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
+<<<<<<< HEAD
   * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-010-b`.
+=======
+  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-010-a`.
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
 
 Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
@@ -315,7 +343,11 @@ Use o conteúdo sobre [Code Review](https://course.betrybe.com/real-life-enginee
 
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
 
+<<<<<<< HEAD
 Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://bit.ly/3ta7hA0)
+=======
+Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://bit.ly/39qMu3s)
+>>>>>>> ee416d6cf11f19ea2013bbdb055873a7cd8b5855
 
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
 
